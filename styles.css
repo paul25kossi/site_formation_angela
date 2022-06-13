@@ -1,0 +1,19 @@
+p
+{
+    color:blue;
+    font-size: 18px;
+}
+
+h1,h3 
+{
+    color:black;
+    font-size: medium;
+}
+.presentation
+{
+    color:red;
+}
+h2
+{
+    font-style: italic;
+}
